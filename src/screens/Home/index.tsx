@@ -41,7 +41,7 @@ export const Home = ({
         </S.BoxInfoNotification>
       </S.WrapperActionNotify>
       <S.NotificationOpenedWrapper>
-        <S.TitleActionButton>Number Add or Decrease</S.TitleActionButton>
+        <S.TitleActionButton>Number</S.TitleActionButton>
         <S.Number>{number}</S.Number>
       </S.NotificationOpenedWrapper>
     </S.WrapperActionButtons>
